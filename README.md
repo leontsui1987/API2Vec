@@ -5,5 +5,6 @@
 * Please refer our "API2Vec: Learning Representations of API Sequences for Malware Detection" for more details.
 * [Jiancong Cui](https://sites.google.com/view/jiancong) is the main contributor of this project.
 
-- [./API2Vec](./API2Vec): The source code and experimental data for RQ1, RQ3-5.
-- [./API2Vec-TimesplitTest](./API2Vec-TimesplitTest): The source code and experimental data for RQ2.
+## Key Modules
+* [./API2Vec](./API2Vec): The source code and experimental data for RQ1, RQ3-5.
+* [./API2Vec-TimesplitTest](./API2Vec-TimesplitTest): The source code and experimental data for RQ2.
